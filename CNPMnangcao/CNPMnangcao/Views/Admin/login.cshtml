@@ -1,0 +1,47 @@
+﻿
+
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <link href="~/Content/login.css" rel="stylesheet" />
+    <script src="~/Scripts/login.js"></script>
+
+</head>
+<body>
+    <div class="container">
+        <section id="content">
+            @using (Html.BeginForm())
+            {@Html.ValidationSummary(true)
+            <form action="">
+                <h1> Login Form </h1>
+                <h5 style=" color: red"> @ViewBag.ThongBao </h5>
+                <div>
+                    <input type="text" name="username" placeholder="Username" required="" id="username" />
+                    @ViewData["Loi1"]
+                </div>
+                <div>
+                    <input type="password" name="password" placeholder="Password" required="" id="password" />
+                    @ViewData["Loi2"]
+                </div>
+                <div>
+                    <input type="submit" value="Log in" />
+                    <a href="#">Lost your password?</a>
+                    <a href="#">Register</a>
+                </div>
+            </form><!-- form -->
+        }
+            <div class="button">
+                <a href="#"> _Quản lí bán sách_ </a>
+            </div><!-- button -->
+
+        </section><!-- content -->
+    </div><!-- container -->
+
+</body>
+</html>

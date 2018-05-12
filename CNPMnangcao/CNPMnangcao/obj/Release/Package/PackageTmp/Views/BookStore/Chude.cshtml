@@ -1,0 +1,11 @@
+﻿@model IEnumerable<CNPMnangcao.Models.CHUDE>
+@foreach (var item in Model)
+{
+    <a href="@Url.Action("SanPhamTheoChuDe","BookStore",new {  id = item.MaCD})">
+        <li>
+            @item.TenChuDe
+        </li>
+    </a>
+
+    }
+

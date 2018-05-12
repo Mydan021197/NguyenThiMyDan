@@ -1,0 +1,39 @@
+﻿
+@{
+    ViewBag.Title = "Dangnhap";
+    Layout = "~/Views/Shared/_LayoutUser.cshtml";
+}
+
+<style>
+
+    a:link, a:visited {
+        color: black;
+        text-decoration: none;
+        font-weight: bold;
+    }
+</style>
+ <div class="col-sm-6" style=" height:500px; background-color:#f8d6e1">
+        @ViewBag.Thongbao
+        <h4>ĐĂNG NHẬP</h4>
+        <div class="line2 mtb20"></div>
+        @using (Html.BeginForm())
+        {
+            @Html.ValidationSummary(true)
+            <div class="form-group" style="width:150px">
+                <label class="control-label">Tên đăng nhập *</label>
+                <input type="text" name="TenDN" class="form-control">
+                @ViewData["Loi1"]
+            </div>
+            <div class="form-group" style="width:150px">
+                <label class="control-label">Mật khẩu *</label>
+                <input type="password" name="Matkhau" class="form-control">
+                @ViewData["Loi2"]
+            </div>
+
+            <div class="form-group">
+                <button type="submit" class="btn btn-danger btn-md btn-login fwb">ĐĂNG NHẬP </button>
+            </div>
+            <p style="color: black">   @Html.ActionLink("Đăng Ký", "dangky", "Nguoidung")</p>
+            <br />
+        }
+    </div>

@@ -1,0 +1,68 @@
+﻿@using CNPMnangcao.Models
+@model List<Giohang>
+@{
+    ViewBag.Title = "Giohang";
+    Layout = "~/Views/Shared/_LayoutUser.cshtml";
+}
+
+<style>
+    #templatemo_content_right h2 {
+        padding: 0 0 0 0;
+        margin: 0 0 20px 0;
+        font-size: 12px;
+        color: black;
+    }
+
+    a:link, a:visited {
+        color: black;
+        text-decoration: none;
+        font-weight: bold;
+    }
+</style>
+    <div  class="templatemo_content_right"  style=" height:900px; background-color:#f8d6e1">
+        <h1 style="text-align:center; color: black; padding-top: 30px"> Giỏ Hàng</h1>
+        <table align="center" border="1">
+            <tr style=" text-align: center; font-weight:bold">
+                <td> Mã Sách </td>
+                <td> Tên Sách </td>
+                <td> Ảnh bìa </td>
+                <td> Số Lượng </td>
+                <td> Đơn Giá </td>
+                <td> Thành Tiền </td>
+                <td width="50px"></td>
+                <td width="50px"></td>
+                <td width="50px"></td>
+            </tr>
+            @foreach (var item in Model)
+            {
+                <tr style="text-align:center;font-weight:bold">
+                    <td>@item.iMasach</td>
+                    <td>@item.sTensach</td>
+                    <td><img src="~/images/@item.sAnhbia" /></td>
+                    @using (Html.BeginForm("CapnhatGiohang", "GioHang", new { @iMaSP = item.iMasach }))
+                    {
+                        <td>
+                            <input type="number" min="1" name="txtSoluong" value="@item.iSoluong" style="background-color:white; width:50px" />
+                        </td>
+                        <td>@String.Format("{0:0,0}", item.dDongia)</td>
+                        <td>@String.Format("{0:0,0}", item.dThanhTtien)</td>
+                        <td><a style="color: black" href="@Url.Action("Details", "BookStore", new { id = item.iMasach })">Chi Tiết </a></td>
+                        <td>@Html.ActionLink("Xóa", "XoaGiohang", new { iMaSP = item.iMasach }) </td>
+                        <td><input type="submit" value="Cập Nhật" /></td>
+                    }
+                </tr>
+
+            }
+            <tr style="font-weight:bold;text-align:right;color:red">
+                <td colspan="4">Số lượng sách : @ViewBag.Tongsoluong</td>
+                <td colspan="4">Tổng tiền : @String.Format("{0:0,0}", ViewBag.Tongtien) VND </td>
+            </tr>
+            <tr style="color:black;text-align:right">
+                <td colspan="9" align="center">
+                    <a href="#"  style="color: black">@Html.ActionLink("Đặt Hàng", "Dathang", "GioHang")</a>
+                </td>
+            </tr>
+        </table>
+
+
+    </div>

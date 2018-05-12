@@ -1,0 +1,222 @@
+c:\users\user\documents\visual studio 2013\Projects\CNPMnangcao\CNPMnangcao\bin\CNPMnangcao.dll.config
+c:\users\user\documents\visual studio 2013\Projects\CNPMnangcao\CNPMnangcao\bin\CNPMnangcao.dll
+c:\users\user\documents\visual studio 2013\Projects\CNPMnangcao\CNPMnangcao\bin\CNPMnangcao.pdb
+c:\users\user\documents\visual studio 2013\Projects\CNPMnangcao\CNPMnangcao\bin\Antlr3.Runtime.dll
+c:\users\user\documents\visual studio 2013\Projects\CNPMnangcao\CNPMnangcao\bin\EntityFramework.dll
+c:\users\user\documents\visual studio 2013\Projects\CNPMnangcao\CNPMnangcao\bin\EntityFramework.SqlServer.dll
+c:\users\user\documents\visual studio 2013\Projects\CNPMnangcao\CNPMnangcao\bin\Microsoft.AspNet.Identity.Core.dll
+c:\users\user\documents\visual studio 2013\Projects\CNPMnangcao\CNPMnangcao\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+c:\users\user\documents\visual studio 2013\Projects\CNPMnangcao\CNPMnangcao\bin\Microsoft.AspNet.Identity.Owin.dll
+c:\users\user\documents\visual studio 2013\Projects\CNPMnangcao\CNPMnangcao\bin\Microsoft.Owin.dll
+c:\users\user\documents\visual studio 2013\Projects\CNPMnangcao\CNPMnangcao\bin\Microsoft.Owin.Host.SystemWeb.dll
+c:\users\user\documents\visual studio 2013\Projects\CNPMnangcao\CNPMnangcao\bin\Microsoft.Owin.Security.Cookies.dll
+c:\users\user\documents\visual studio 2013\Projects\CNPMnangcao\CNPMnangcao\bin\Microsoft.Owin.Security.dll
+c:\users\user\documents\visual studio 2013\Projects\CNPMnangcao\CNPMnangcao\bin\Microsoft.Owin.Security.Facebook.dll
+c:\users\user\documents\visual studio 2013\Projects\CNPMnangcao\CNPMnangcao\bin\Microsoft.Owin.Security.Google.dll
+c:\users\user\documents\visual studio 2013\Projects\CNPMnangcao\CNPMnangcao\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+c:\users\user\documents\visual studio 2013\Projects\CNPMnangcao\CNPMnangcao\bin\Microsoft.Owin.Security.OAuth.dll
+c:\users\user\documents\visual studio 2013\Projects\CNPMnangcao\CNPMnangcao\bin\Microsoft.Owin.Security.Twitter.dll
+c:\users\user\documents\visual studio 2013\Projects\CNPMnangcao\CNPMnangcao\bin\Microsoft.Web.Infrastructure.dll
+c:\users\user\documents\visual studio 2013\Projects\CNPMnangcao\CNPMnangcao\bin\Newtonsoft.Json.dll
+c:\users\user\documents\visual studio 2013\Projects\CNPMnangcao\CNPMnangcao\bin\Owin.dll
+c:\users\user\documents\visual studio 2013\Projects\CNPMnangcao\CNPMnangcao\bin\System.Web.Helpers.dll
+c:\users\user\documents\visual studio 2013\Projects\CNPMnangcao\CNPMnangcao\bin\System.Web.Mvc.dll
+c:\users\user\documents\visual studio 2013\Projects\CNPMnangcao\CNPMnangcao\bin\System.Web.Optimization.dll
+c:\users\user\documents\visual studio 2013\Projects\CNPMnangcao\CNPMnangcao\bin\System.Web.Razor.dll
+c:\users\user\documents\visual studio 2013\Projects\CNPMnangcao\CNPMnangcao\bin\System.Web.WebPages.Deployment.dll
+c:\users\user\documents\visual studio 2013\Projects\CNPMnangcao\CNPMnangcao\bin\System.Web.WebPages.dll
+c:\users\user\documents\visual studio 2013\Projects\CNPMnangcao\CNPMnangcao\bin\System.Web.WebPages.Razor.dll
+c:\users\user\documents\visual studio 2013\Projects\CNPMnangcao\CNPMnangcao\bin\WebGrease.dll
+c:\users\user\documents\visual studio 2013\Projects\CNPMnangcao\CNPMnangcao\bin\System.Web.Helpers.xml
+c:\users\user\documents\visual studio 2013\Projects\CNPMnangcao\CNPMnangcao\bin\System.Web.Mvc.xml
+c:\users\user\documents\visual studio 2013\Projects\CNPMnangcao\CNPMnangcao\bin\System.Web.Optimization.xml
+c:\users\user\documents\visual studio 2013\Projects\CNPMnangcao\CNPMnangcao\bin\System.Web.Razor.xml
+c:\users\user\documents\visual studio 2013\Projects\CNPMnangcao\CNPMnangcao\bin\System.Web.WebPages.xml
+c:\users\user\documents\visual studio 2013\Projects\CNPMnangcao\CNPMnangcao\bin\System.Web.WebPages.Deployment.xml
+c:\users\user\documents\visual studio 2013\Projects\CNPMnangcao\CNPMnangcao\bin\System.Web.WebPages.Razor.xml
+c:\users\user\documents\visual studio 2013\Projects\CNPMnangcao\CNPMnangcao\bin\Newtonsoft.Json.xml
+c:\users\user\documents\visual studio 2013\Projects\CNPMnangcao\CNPMnangcao\bin\Antlr3.Runtime.pdb
+c:\users\user\documents\visual studio 2013\Projects\CNPMnangcao\CNPMnangcao\bin\EntityFramework.xml
+c:\users\user\documents\visual studio 2013\Projects\CNPMnangcao\CNPMnangcao\bin\EntityFramework.SqlServer.xml
+c:\users\user\documents\visual studio 2013\Projects\CNPMnangcao\CNPMnangcao\bin\Microsoft.AspNet.Identity.Core.xml
+c:\users\user\documents\visual studio 2013\Projects\CNPMnangcao\CNPMnangcao\bin\Microsoft.AspNet.Identity.Owin.xml
+c:\users\user\documents\visual studio 2013\Projects\CNPMnangcao\CNPMnangcao\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+c:\users\user\documents\visual studio 2013\Projects\CNPMnangcao\CNPMnangcao\bin\Microsoft.Owin.xml
+c:\users\user\documents\visual studio 2013\Projects\CNPMnangcao\CNPMnangcao\bin\Microsoft.Owin.Host.SystemWeb.xml
+c:\users\user\documents\visual studio 2013\Projects\CNPMnangcao\CNPMnangcao\bin\Microsoft.Owin.Security.xml
+c:\users\user\documents\visual studio 2013\Projects\CNPMnangcao\CNPMnangcao\bin\Microsoft.Owin.Security.Facebook.xml
+c:\users\user\documents\visual studio 2013\Projects\CNPMnangcao\CNPMnangcao\bin\Microsoft.Owin.Security.Cookies.xml
+c:\users\user\documents\visual studio 2013\Projects\CNPMnangcao\CNPMnangcao\bin\Microsoft.Owin.Security.OAuth.xml
+c:\users\user\documents\visual studio 2013\Projects\CNPMnangcao\CNPMnangcao\bin\Microsoft.Owin.Security.Google.xml
+c:\users\user\documents\visual studio 2013\Projects\CNPMnangcao\CNPMnangcao\bin\Microsoft.Owin.Security.Twitter.xml
+c:\users\user\documents\visual studio 2013\Projects\CNPMnangcao\CNPMnangcao\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+c:\users\user\documents\visual studio 2013\Projects\CNPMnangcao\CNPMnangcao\obj\Debug\CNPMnangcao.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2013\Projects\CNPMnangcao\CNPMnangcao\obj\Debug\CNPMnangcao.dll
+c:\users\user\documents\visual studio 2013\Projects\CNPMnangcao\CNPMnangcao\obj\Debug\CNPMnangcao.pdb
+D:\CNPMNC MYDAN\CNPMnangcao\CNPMnangcao\bin\CNPMnangcao.dll.config
+D:\CNPMNC MYDAN\CNPMnangcao\CNPMnangcao\bin\CNPMnangcao.dll
+D:\CNPMNC MYDAN\CNPMnangcao\CNPMnangcao\bin\CNPMnangcao.pdb
+D:\CNPMNC MYDAN\CNPMnangcao\CNPMnangcao\bin\Antlr3.Runtime.dll
+D:\CNPMNC MYDAN\CNPMnangcao\CNPMnangcao\bin\EntityFramework.dll
+D:\CNPMNC MYDAN\CNPMnangcao\CNPMnangcao\bin\EntityFramework.SqlServer.dll
+D:\CNPMNC MYDAN\CNPMnangcao\CNPMnangcao\bin\Microsoft.AspNet.Identity.Core.dll
+D:\CNPMNC MYDAN\CNPMnangcao\CNPMnangcao\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\CNPMNC MYDAN\CNPMnangcao\CNPMnangcao\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\CNPMNC MYDAN\CNPMnangcao\CNPMnangcao\bin\Microsoft.Owin.dll
+D:\CNPMNC MYDAN\CNPMnangcao\CNPMnangcao\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\CNPMNC MYDAN\CNPMnangcao\CNPMnangcao\bin\Microsoft.Owin.Security.Cookies.dll
+D:\CNPMNC MYDAN\CNPMnangcao\CNPMnangcao\bin\Microsoft.Owin.Security.dll
+D:\CNPMNC MYDAN\CNPMnangcao\CNPMnangcao\bin\Microsoft.Owin.Security.Facebook.dll
+D:\CNPMNC MYDAN\CNPMnangcao\CNPMnangcao\bin\Microsoft.Owin.Security.Google.dll
+D:\CNPMNC MYDAN\CNPMnangcao\CNPMnangcao\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\CNPMNC MYDAN\CNPMnangcao\CNPMnangcao\bin\Microsoft.Owin.Security.OAuth.dll
+D:\CNPMNC MYDAN\CNPMnangcao\CNPMnangcao\bin\Microsoft.Owin.Security.Twitter.dll
+D:\CNPMNC MYDAN\CNPMnangcao\CNPMnangcao\bin\Microsoft.Web.Infrastructure.dll
+D:\CNPMNC MYDAN\CNPMnangcao\CNPMnangcao\bin\Newtonsoft.Json.dll
+D:\CNPMNC MYDAN\CNPMnangcao\CNPMnangcao\bin\Owin.dll
+D:\CNPMNC MYDAN\CNPMnangcao\CNPMnangcao\bin\System.Web.Helpers.dll
+D:\CNPMNC MYDAN\CNPMnangcao\CNPMnangcao\bin\System.Web.Mvc.dll
+D:\CNPMNC MYDAN\CNPMnangcao\CNPMnangcao\bin\System.Web.Optimization.dll
+D:\CNPMNC MYDAN\CNPMnangcao\CNPMnangcao\bin\System.Web.Razor.dll
+D:\CNPMNC MYDAN\CNPMnangcao\CNPMnangcao\bin\System.Web.WebPages.Deployment.dll
+D:\CNPMNC MYDAN\CNPMnangcao\CNPMnangcao\bin\System.Web.WebPages.dll
+D:\CNPMNC MYDAN\CNPMnangcao\CNPMnangcao\bin\System.Web.WebPages.Razor.dll
+D:\CNPMNC MYDAN\CNPMnangcao\CNPMnangcao\bin\WebGrease.dll
+D:\CNPMNC MYDAN\CNPMnangcao\CNPMnangcao\bin\System.Web.Helpers.xml
+D:\CNPMNC MYDAN\CNPMnangcao\CNPMnangcao\bin\System.Web.Mvc.xml
+D:\CNPMNC MYDAN\CNPMnangcao\CNPMnangcao\bin\System.Web.Optimization.xml
+D:\CNPMNC MYDAN\CNPMnangcao\CNPMnangcao\bin\System.Web.Razor.xml
+D:\CNPMNC MYDAN\CNPMnangcao\CNPMnangcao\bin\System.Web.WebPages.xml
+D:\CNPMNC MYDAN\CNPMnangcao\CNPMnangcao\bin\System.Web.WebPages.Deployment.xml
+D:\CNPMNC MYDAN\CNPMnangcao\CNPMnangcao\bin\System.Web.WebPages.Razor.xml
+D:\CNPMNC MYDAN\CNPMnangcao\CNPMnangcao\bin\Newtonsoft.Json.xml
+D:\CNPMNC MYDAN\CNPMnangcao\CNPMnangcao\bin\Antlr3.Runtime.pdb
+D:\CNPMNC MYDAN\CNPMnangcao\CNPMnangcao\bin\EntityFramework.xml
+D:\CNPMNC MYDAN\CNPMnangcao\CNPMnangcao\bin\EntityFramework.SqlServer.xml
+D:\CNPMNC MYDAN\CNPMnangcao\CNPMnangcao\bin\Microsoft.AspNet.Identity.Core.xml
+D:\CNPMNC MYDAN\CNPMnangcao\CNPMnangcao\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\CNPMNC MYDAN\CNPMnangcao\CNPMnangcao\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\CNPMNC MYDAN\CNPMnangcao\CNPMnangcao\bin\Microsoft.Owin.xml
+D:\CNPMNC MYDAN\CNPMnangcao\CNPMnangcao\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\CNPMNC MYDAN\CNPMnangcao\CNPMnangcao\bin\Microsoft.Owin.Security.xml
+D:\CNPMNC MYDAN\CNPMnangcao\CNPMnangcao\bin\Microsoft.Owin.Security.Facebook.xml
+D:\CNPMNC MYDAN\CNPMnangcao\CNPMnangcao\bin\Microsoft.Owin.Security.Cookies.xml
+D:\CNPMNC MYDAN\CNPMnangcao\CNPMnangcao\bin\Microsoft.Owin.Security.OAuth.xml
+D:\CNPMNC MYDAN\CNPMnangcao\CNPMnangcao\bin\Microsoft.Owin.Security.Google.xml
+D:\CNPMNC MYDAN\CNPMnangcao\CNPMnangcao\bin\Microsoft.Owin.Security.Twitter.xml
+D:\CNPMNC MYDAN\CNPMnangcao\CNPMnangcao\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\CNPMNC MYDAN\CNPMnangcao\CNPMnangcao\obj\Debug\CNPMnangcao.csprojResolveAssemblyReference.cache
+D:\CNPMNC MYDAN\CNPMnangcao\CNPMnangcao\obj\Debug\CNPMnangcao.dll
+D:\CNPMNC MYDAN\CNPMnangcao\CNPMnangcao\obj\Debug\CNPMnangcao.pdb
+C:\Users\USER\Desktop\CNPMNC MYDAN\CNPMnangcao\CNPMnangcao\bin\CNPMnangcao.dll.config
+C:\Users\USER\Desktop\CNPMNC MYDAN\CNPMnangcao\CNPMnangcao\bin\CNPMnangcao.dll
+C:\Users\USER\Desktop\CNPMNC MYDAN\CNPMnangcao\CNPMnangcao\bin\CNPMnangcao.pdb
+C:\Users\USER\Desktop\CNPMNC MYDAN\CNPMnangcao\CNPMnangcao\bin\Antlr3.Runtime.dll
+C:\Users\USER\Desktop\CNPMNC MYDAN\CNPMnangcao\CNPMnangcao\bin\EntityFramework.dll
+C:\Users\USER\Desktop\CNPMNC MYDAN\CNPMnangcao\CNPMnangcao\bin\EntityFramework.SqlServer.dll
+C:\Users\USER\Desktop\CNPMNC MYDAN\CNPMnangcao\CNPMnangcao\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\USER\Desktop\CNPMNC MYDAN\CNPMnangcao\CNPMnangcao\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\USER\Desktop\CNPMNC MYDAN\CNPMnangcao\CNPMnangcao\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\USER\Desktop\CNPMNC MYDAN\CNPMnangcao\CNPMnangcao\bin\Microsoft.Owin.dll
+C:\Users\USER\Desktop\CNPMNC MYDAN\CNPMnangcao\CNPMnangcao\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\USER\Desktop\CNPMNC MYDAN\CNPMnangcao\CNPMnangcao\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\USER\Desktop\CNPMNC MYDAN\CNPMnangcao\CNPMnangcao\bin\Microsoft.Owin.Security.dll
+C:\Users\USER\Desktop\CNPMNC MYDAN\CNPMnangcao\CNPMnangcao\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\USER\Desktop\CNPMNC MYDAN\CNPMnangcao\CNPMnangcao\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\USER\Desktop\CNPMNC MYDAN\CNPMnangcao\CNPMnangcao\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\USER\Desktop\CNPMNC MYDAN\CNPMnangcao\CNPMnangcao\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\USER\Desktop\CNPMNC MYDAN\CNPMnangcao\CNPMnangcao\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\USER\Desktop\CNPMNC MYDAN\CNPMnangcao\CNPMnangcao\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\USER\Desktop\CNPMNC MYDAN\CNPMnangcao\CNPMnangcao\bin\Newtonsoft.Json.dll
+C:\Users\USER\Desktop\CNPMNC MYDAN\CNPMnangcao\CNPMnangcao\bin\Owin.dll
+C:\Users\USER\Desktop\CNPMNC MYDAN\CNPMnangcao\CNPMnangcao\bin\System.Web.Helpers.dll
+C:\Users\USER\Desktop\CNPMNC MYDAN\CNPMnangcao\CNPMnangcao\bin\System.Web.Mvc.dll
+C:\Users\USER\Desktop\CNPMNC MYDAN\CNPMnangcao\CNPMnangcao\bin\System.Web.Optimization.dll
+C:\Users\USER\Desktop\CNPMNC MYDAN\CNPMnangcao\CNPMnangcao\bin\System.Web.Razor.dll
+C:\Users\USER\Desktop\CNPMNC MYDAN\CNPMnangcao\CNPMnangcao\bin\System.Web.WebPages.Deployment.dll
+C:\Users\USER\Desktop\CNPMNC MYDAN\CNPMnangcao\CNPMnangcao\bin\System.Web.WebPages.dll
+C:\Users\USER\Desktop\CNPMNC MYDAN\CNPMnangcao\CNPMnangcao\bin\System.Web.WebPages.Razor.dll
+C:\Users\USER\Desktop\CNPMNC MYDAN\CNPMnangcao\CNPMnangcao\bin\WebGrease.dll
+C:\Users\USER\Desktop\CNPMNC MYDAN\CNPMnangcao\CNPMnangcao\bin\System.Web.Helpers.xml
+C:\Users\USER\Desktop\CNPMNC MYDAN\CNPMnangcao\CNPMnangcao\bin\System.Web.Mvc.xml
+C:\Users\USER\Desktop\CNPMNC MYDAN\CNPMnangcao\CNPMnangcao\bin\System.Web.Optimization.xml
+C:\Users\USER\Desktop\CNPMNC MYDAN\CNPMnangcao\CNPMnangcao\bin\System.Web.Razor.xml
+C:\Users\USER\Desktop\CNPMNC MYDAN\CNPMnangcao\CNPMnangcao\bin\System.Web.WebPages.xml
+C:\Users\USER\Desktop\CNPMNC MYDAN\CNPMnangcao\CNPMnangcao\bin\System.Web.WebPages.Deployment.xml
+C:\Users\USER\Desktop\CNPMNC MYDAN\CNPMnangcao\CNPMnangcao\bin\System.Web.WebPages.Razor.xml
+C:\Users\USER\Desktop\CNPMNC MYDAN\CNPMnangcao\CNPMnangcao\bin\Newtonsoft.Json.xml
+C:\Users\USER\Desktop\CNPMNC MYDAN\CNPMnangcao\CNPMnangcao\bin\Antlr3.Runtime.pdb
+C:\Users\USER\Desktop\CNPMNC MYDAN\CNPMnangcao\CNPMnangcao\bin\EntityFramework.xml
+C:\Users\USER\Desktop\CNPMNC MYDAN\CNPMnangcao\CNPMnangcao\bin\EntityFramework.SqlServer.xml
+C:\Users\USER\Desktop\CNPMNC MYDAN\CNPMnangcao\CNPMnangcao\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\USER\Desktop\CNPMNC MYDAN\CNPMnangcao\CNPMnangcao\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\USER\Desktop\CNPMNC MYDAN\CNPMnangcao\CNPMnangcao\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\USER\Desktop\CNPMNC MYDAN\CNPMnangcao\CNPMnangcao\bin\Microsoft.Owin.xml
+C:\Users\USER\Desktop\CNPMNC MYDAN\CNPMnangcao\CNPMnangcao\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\USER\Desktop\CNPMNC MYDAN\CNPMnangcao\CNPMnangcao\bin\Microsoft.Owin.Security.xml
+C:\Users\USER\Desktop\CNPMNC MYDAN\CNPMnangcao\CNPMnangcao\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\USER\Desktop\CNPMNC MYDAN\CNPMnangcao\CNPMnangcao\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\USER\Desktop\CNPMNC MYDAN\CNPMnangcao\CNPMnangcao\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\USER\Desktop\CNPMNC MYDAN\CNPMnangcao\CNPMnangcao\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\USER\Desktop\CNPMNC MYDAN\CNPMnangcao\CNPMnangcao\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\USER\Desktop\CNPMNC MYDAN\CNPMnangcao\CNPMnangcao\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\USER\Desktop\CNPMNC MYDAN\CNPMnangcao\CNPMnangcao\obj\Debug\CNPMnangcao.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\CNPMNC MYDAN\CNPMnangcao\CNPMnangcao\obj\Debug\CNPMnangcao.csproj.CopyComplete
+C:\Users\USER\Desktop\CNPMNC MYDAN\CNPMnangcao\CNPMnangcao\obj\Debug\CNPMnangcao.dll
+C:\Users\USER\Desktop\CNPMNC MYDAN\CNPMnangcao\CNPMnangcao\obj\Debug\CNPMnangcao.pdb
+D:\mydan\CNPMnangcao\CNPMnangcao\bin\CNPMnangcao.dll.config
+D:\mydan\CNPMnangcao\CNPMnangcao\bin\CNPMnangcao.dll
+D:\mydan\CNPMnangcao\CNPMnangcao\bin\CNPMnangcao.pdb
+D:\mydan\CNPMnangcao\CNPMnangcao\bin\Antlr3.Runtime.dll
+D:\mydan\CNPMnangcao\CNPMnangcao\bin\EntityFramework.dll
+D:\mydan\CNPMnangcao\CNPMnangcao\bin\EntityFramework.SqlServer.dll
+D:\mydan\CNPMnangcao\CNPMnangcao\bin\Microsoft.AspNet.Identity.Core.dll
+D:\mydan\CNPMnangcao\CNPMnangcao\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\mydan\CNPMnangcao\CNPMnangcao\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\mydan\CNPMnangcao\CNPMnangcao\bin\Microsoft.Owin.dll
+D:\mydan\CNPMnangcao\CNPMnangcao\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\mydan\CNPMnangcao\CNPMnangcao\bin\Microsoft.Owin.Security.Cookies.dll
+D:\mydan\CNPMnangcao\CNPMnangcao\bin\Microsoft.Owin.Security.dll
+D:\mydan\CNPMnangcao\CNPMnangcao\bin\Microsoft.Owin.Security.Facebook.dll
+D:\mydan\CNPMnangcao\CNPMnangcao\bin\Microsoft.Owin.Security.Google.dll
+D:\mydan\CNPMnangcao\CNPMnangcao\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\mydan\CNPMnangcao\CNPMnangcao\bin\Microsoft.Owin.Security.OAuth.dll
+D:\mydan\CNPMnangcao\CNPMnangcao\bin\Microsoft.Owin.Security.Twitter.dll
+D:\mydan\CNPMnangcao\CNPMnangcao\bin\Microsoft.Web.Infrastructure.dll
+D:\mydan\CNPMnangcao\CNPMnangcao\bin\Newtonsoft.Json.dll
+D:\mydan\CNPMnangcao\CNPMnangcao\bin\Owin.dll
+D:\mydan\CNPMnangcao\CNPMnangcao\bin\System.Web.Helpers.dll
+D:\mydan\CNPMnangcao\CNPMnangcao\bin\System.Web.Mvc.dll
+D:\mydan\CNPMnangcao\CNPMnangcao\bin\System.Web.Optimization.dll
+D:\mydan\CNPMnangcao\CNPMnangcao\bin\System.Web.Razor.dll
+D:\mydan\CNPMnangcao\CNPMnangcao\bin\System.Web.WebPages.Deployment.dll
+D:\mydan\CNPMnangcao\CNPMnangcao\bin\System.Web.WebPages.dll
+D:\mydan\CNPMnangcao\CNPMnangcao\bin\System.Web.WebPages.Razor.dll
+D:\mydan\CNPMnangcao\CNPMnangcao\bin\WebGrease.dll
+D:\mydan\CNPMnangcao\CNPMnangcao\bin\System.Web.Helpers.xml
+D:\mydan\CNPMnangcao\CNPMnangcao\bin\System.Web.Mvc.xml
+D:\mydan\CNPMnangcao\CNPMnangcao\bin\System.Web.Optimization.xml
+D:\mydan\CNPMnangcao\CNPMnangcao\bin\System.Web.Razor.xml
+D:\mydan\CNPMnangcao\CNPMnangcao\bin\System.Web.WebPages.xml
+D:\mydan\CNPMnangcao\CNPMnangcao\bin\System.Web.WebPages.Deployment.xml
+D:\mydan\CNPMnangcao\CNPMnangcao\bin\System.Web.WebPages.Razor.xml
+D:\mydan\CNPMnangcao\CNPMnangcao\bin\Newtonsoft.Json.xml
+D:\mydan\CNPMnangcao\CNPMnangcao\bin\Antlr3.Runtime.pdb
+D:\mydan\CNPMnangcao\CNPMnangcao\bin\EntityFramework.xml
+D:\mydan\CNPMnangcao\CNPMnangcao\bin\EntityFramework.SqlServer.xml
+D:\mydan\CNPMnangcao\CNPMnangcao\bin\Microsoft.AspNet.Identity.Core.xml
+D:\mydan\CNPMnangcao\CNPMnangcao\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\mydan\CNPMnangcao\CNPMnangcao\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\mydan\CNPMnangcao\CNPMnangcao\bin\Microsoft.Owin.xml
+D:\mydan\CNPMnangcao\CNPMnangcao\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\mydan\CNPMnangcao\CNPMnangcao\bin\Microsoft.Owin.Security.xml
+D:\mydan\CNPMnangcao\CNPMnangcao\bin\Microsoft.Owin.Security.Facebook.xml
+D:\mydan\CNPMnangcao\CNPMnangcao\bin\Microsoft.Owin.Security.Cookies.xml
+D:\mydan\CNPMnangcao\CNPMnangcao\bin\Microsoft.Owin.Security.OAuth.xml
+D:\mydan\CNPMnangcao\CNPMnangcao\bin\Microsoft.Owin.Security.Google.xml
+D:\mydan\CNPMnangcao\CNPMnangcao\bin\Microsoft.Owin.Security.Twitter.xml
+D:\mydan\CNPMnangcao\CNPMnangcao\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\mydan\CNPMnangcao\CNPMnangcao\obj\Debug\CNPMnangcao.csproj.CoreCompileInputs.cache
+D:\mydan\CNPMnangcao\CNPMnangcao\obj\Debug\CNPMnangcao.csproj.CopyComplete
+D:\mydan\CNPMnangcao\CNPMnangcao\obj\Debug\CNPMnangcao.dll
+D:\mydan\CNPMnangcao\CNPMnangcao\obj\Debug\CNPMnangcao.pdb

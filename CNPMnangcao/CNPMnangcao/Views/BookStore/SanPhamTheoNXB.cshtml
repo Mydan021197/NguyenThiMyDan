@@ -1,0 +1,35 @@
+﻿@using CNPMnangcao.Models
+@{
+    ViewBag.Title = "SanPhamTheoNXB";
+    Layout = "~/Views/Shared/_LayoutUser.cshtml";
+}
+<div id="templatemo_content_right">
+    <h3 style="text-align:center ; color:red"> Sách Theo Xuất Bản </h3>
+    <div class="row">
+        @foreach (var sach in Model)
+        {
+            <div class="templatemo_product_box">
+                <a href="@Url.Action("Details", "BookStore", new {id = sach.Masach} )">
+                    <img alt="@sach.Tensach" src="~/images/@sach.Hinhminhhoa" />
+                    <div>
+                        <h5 style="text-align:center">
+                            @sach.Tensach
+                        </h5>
+                    </div>
+                    <div>
+                        <p class="pull-right">15 reviews</p>
+                        <p>
+                            <span class="glyphicon glyphicon-star"></span>
+                            <span class="glyphicon glyphicon-star"></span>
+                            <span class="glyphicon glyphicon-star"></span>
+                            <span class="glyphicon glyphicon-star"></span>
+                            <span class="glyphicon glyphicon-star"></span>
+                        </p>
+                    </div>
+                </a>
+            </div>
+        }
+        <br />
+    </div>
+</div>
+

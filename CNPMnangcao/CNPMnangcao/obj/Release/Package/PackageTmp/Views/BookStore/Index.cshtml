@@ -1,0 +1,20 @@
+﻿
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_LayoutUser.cshtml";
+}
+<div id="templatemo_content_right">
+    @foreach (var sach in Model)
+    {
+        <div class="templatemo_product_box" style=" padding">
+            <a href="@Url.Action("Details", "BookStore", new {id = sach.Masach} )">
+                <img alt="@sach.Tensach" src="~/images/@sach.Hinhminhhoa" width="130" />
+                @sach.Tensach
+            </a>
+
+        </div>
+    }
+</div>
+
+
+
